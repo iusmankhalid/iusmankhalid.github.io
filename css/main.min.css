@@ -1669,7 +1669,7 @@ body .text-center {
   -webkit-flex-flow: column nowrap;
       -ms-flex-flow: column nowrap;
           flex-flow: column nowrap;
-  background-color: var(--main-color);
+  background-color: #f5ae20;
   padding: 40px 0 20px;
   -webkit-box-shadow: -3px 4px 7px 1px rgba(0, 0, 0, 0.1);
           box-shadow: -3px 4px 7px 1px rgba(0, 0, 0, 0.1);
@@ -1699,7 +1699,7 @@ body .text-center {
 }
 
 .footer .footer__menu ul li {
-  color: #ffffff;
+  color: #000000;
   font-size: 22px;
   font-weight: 600;
   text-transform: uppercase;
@@ -1744,7 +1744,7 @@ body .text-center {
 
 .footer .footer__location {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   font-size: 20px;
   font-weight: 400;
   padding: 20px 0;
